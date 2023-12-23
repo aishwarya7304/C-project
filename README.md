@@ -1,2 +1,3 @@
-# project
-The project is a cricket game written in c language and . The instructions for the same will be displayed on the terminal itself as you proceed. Do give it a try!!
+# Cricket Showdown!
+C program is a cricket simulation game that allows the user to play a cricket match against the computer. The game includes features such as team selection, a coin toss to decide batting or bowling, and realistic gameplay where the user makes choices for batting and bowling. Players and teams are represented using structures, and the program keeps track of individual player statistics. The game comprises two innings, and the result is displayed with a detailed scorecard. The program also incorporates a dynamic and engaging interface with colored text and enlarged fonts for a visually appealing experience.
+Do give it a try!!
